@@ -1,0 +1,2 @@
+# Quotes Collection
+# Format: "Quote text" - Author (Tags: tag1, tag2)

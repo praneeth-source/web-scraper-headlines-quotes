@@ -1,0 +1,3 @@
+# Core external dependencies for Project 04: Web Scraper
+requests>=2.31.0
+beautifulsoup4>=4.12.0
